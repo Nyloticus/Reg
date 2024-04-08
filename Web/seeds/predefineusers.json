@@ -1,0 +1,14 @@
+﻿[
+  {
+    "Username": "Admin",
+    "RoleName": "SuperAdmin",
+    "Password": "Admin1",
+    "Email": "Admin@Apps.com"
+  },
+  {
+    "Username": "AppsAdmin",
+    "RoleName": "admin",
+    "Password": "Admin1234@Apps.com",
+    "Email": "Admin1@Apps.com"
+  }
+]

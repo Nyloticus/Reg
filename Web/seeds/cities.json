@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "1",
+    "GovernorateId": "1",
+    "NameAr": "15 مايو",
+    "NameEn": "15 May"
+  },
+  {
+    "id": "2",
+    "GovernorateId": "1",
+    "NameAr": "الازبكية",
+    "NameEn": "Al Azbakeyah"
+  },
+  {
+    "id": "3",
+    "GovernorateId": "1",
+    "NameAr": "البساتين",
+    "NameEn": "Al Basatin"
+  },
+  {
+    "id": "4",
+    "GovernorateId": "1",
+    "NameAr": "التبين",
+    "NameEn": "Tebin"
+  },
+  {
+    "id": "5",
+    "GovernorateId": "1",
+    "NameAr": "الخليفة",
+    "NameEn": "El-Khalifa"
+  },
+  {
+    "id": "6",
+    "GovernorateId": "1",
+    "NameAr": "الدراسة",
+    "NameEn": "El darrasa"
+  },
+  {
+    "id": "7",
+    "GovernorateId": "1",
+    "NameAr": "الدرب الاحمر",
+    "NameEn": "Aldarb Alahmar"
+  },
+  {
+    "id": "8",
+    "GovernorateId": "1",
+    "NameAr": "الزاوية الحمراء",
+    "NameEn": "Zawya al-Hamra"
+  },
+  {
+    "id": "9",
+    "GovernorateId": "1",
+    "NameAr": "الزيتون",
+    "NameEn": "El-Zaytoun"
+  },
+  {
+    "id": "10",
+    "GovernorateId": "1",
+    "NameAr": "الساحل",
+    "NameEn": "Sahel"
+  },
+  {
+    "id": "11",
+    "GovernorateId": "1",
+    "NameAr": "السلام",
+    "NameEn": "El Salam"
+  },
+  {
+    "id": "12",
+    "GovernorateId": "1",
+    "NameAr": "السيدة زينب",
+    "NameEn": "Sayeda Zeinab"
+  },
+  {
+    "id": "13",
+    "GovernorateId": "1",
+    "NameAr": "الشرابية",
+    "NameEn": "El Sharabeya"
+  },
+  {
+    "id": "14",
+    "GovernorateId": "1",
+    "NameAr": "مدينة الشروق",
+    "NameEn": "Shorouk"
+  },
+  {
+    "id": "15",
+    "GovernorateId": "1",
+    "NameAr": "الظاهر",
+    "NameEn": "El Daher"
+  },
+  {
+    "id": "16",
+    "GovernorateId": "1",
+    "NameAr": "العتبة",
+    "NameEn": "Ataba"
+  },
+  {
+    "id": "17",
+    "GovernorateId": "1",
+    "NameAr": "القاهرة الجديدة",
+    "NameEn": "New Cairo"
+  },
+  {
+    "id": "18",
+    "GovernorateId": "1",
+    "NameAr": "المرج",
+    "NameEn": "El Marg"
+  },
+  {
+    "id": "19",
+    "GovernorateId": "1",
+    "NameAr": "عزبة النخل",
+    "NameEn": "Ezbet el Nakhl"
+  },
+  {
+    "id": "20",
+    "GovernorateId": "1",
+    "NameAr": "المطرية",
+    "NameEn": "Matareya"
+  },
+  {
+    "id": "21",
+    "GovernorateId": "1",
+    "NameAr": "المعادى",
+    "NameEn": "Maadi"
+  },
+  {
+    "id": "22",
+    "GovernorateId": "1",
+    "NameAr": "المعصرة",
+    "NameEn": "Maasara"
+  },
+  {
+    "id": "23",
+    "GovernorateId": "1",
+    "NameAr": "المقطم",
+    "NameEn": "Mokattam"
+  },
+  {
+    "id": "24",
+    "GovernorateId": "1",
+    "NameAr": "المنيل",
+    "NameEn": "Manyal"
+  },
+  {
+    "id": "25",
+    "GovernorateId": "1",
+    "NameAr": "الموسكى",
+    "NameEn": "Mosky"
+  },
+  {
+    "id": "26",
+    "GovernorateId": "1",
+    "NameAr": "النزهة",
+    "NameEn": "Nozha"
+  },
+  {
+    "id": "27",
+    "GovernorateId": "1",
+    "NameAr": "الوايلى",
+    "NameEn": "Waily"
+  },
+  {
+    "id": "28",
+    "GovernorateId": "1",
+    "NameAr": "باب الشعرية",
+    "NameEn": "Bab al-Shereia"
+  },
+  {
+    "id": "29",
+    "GovernorateId": "1",
+    "NameAr": "بولاق",
+    "NameEn": "Bolaq"
+  },
+  {
+    "id": "30",
+    "GovernorateId": "1",
+    "NameAr": "جاردن سيتى",
+    "NameEn": "Garden City"
+  },
+  {
+    "id": "31",
+    "GovernorateId": "1",
+    "NameAr": "حدائق القبة",
+    "NameEn": "Hadayek El-Kobba"
+  },
+  {
+    "id": "32",
+    "GovernorateId": "1",
+    "NameAr": "حلوان",
+    "NameEn": "Helwan"
+  },
+  {
+    "id": "33",
+    "GovernorateId": "1",
+    "NameAr": "دار السلام",
+    "NameEn": "Dar Al Salam"
+  },
+  {
+    "id": "34",
+    "GovernorateId": "1",
+    "NameAr": "شبرا",
+    "NameEn": "Shubra"
+  },
+  {
+    "id": "35",
+    "GovernorateId": "1",
+    "NameAr": "طره",
+    "NameEn": "Tura"
+  },
+  {
+    "id": "36",
+    "GovernorateId": "1",
+    "NameAr": "عابدين",
+    "NameEn": "Abdeen"
+  },
+  {
+    "id": "37",
+    "GovernorateId": "1",
+    "NameAr": "عباسية",
+    "NameEn": "Abaseya"
+  },
+  {
+    "id": "38",
+    "GovernorateId": "1",
+    "NameAr": "عين شمس",
+    "NameEn": "Ain Shams"
+  },
+  {
+    "id": "39",
+    "GovernorateId": "1",
+    "NameAr": "مدينة نصر",
+    "NameEn": "Nasr City"
+  },
+  {
+    "id": "40",
+    "GovernorateId": "1",
+    "NameAr": "مصر الجديدة",
+    "NameEn": "New Heliopolis"
+  },
+  {
+    "id": "41",
+    "GovernorateId": "1",
+    "NameAr": "مصر القديمة",
+    "NameEn": "Masr Al Qadima"
+  },
+  {
+    "id": "42",
+    "GovernorateId": "1",
+    "NameAr": "منشية ناصر",
+    "NameEn": "Mansheya Nasir"
+  },
+  {
+    "id": "43",
+    "GovernorateId": "1",
+    "NameAr": "مدينة بدر",
+    "NameEn": "Badr City"
+  },
+  {
+    "id": "44",
+    "GovernorateId": "1",
+    "NameAr": "مدينة العبور",
+    "NameEn": "Obour City"
+  },
+  {
+    "id": "45",
+    "GovernorateId": "1",
+    "NameAr": "وسط البلد",
+    "NameEn": "Cairo Downtown"
+  },
+  {
+    "id": "46",
+    "GovernorateId": "1",
+    "NameAr": "الزمالك",
+    "NameEn": "Zamalek"
+  },
+  {
+    "id": "47",
+    "GovernorateId": "1",
+    "NameAr": "قصر النيل",
+    "NameEn": "Kasr El Nile"
+  },
+  {
+    "id": "48",
+    "GovernorateId": "1",
+    "NameAr": "الرحاب",
+    "NameEn": "Rehab"
+  },
+  {
+    "id": "49",
+    "GovernorateId": "1",
+    "NameAr": "القطامية",
+    "NameEn": "Katameya"
+  },
+  {
+    "id": "50",
+    "GovernorateId": "1",
+    "NameAr": "مدينتي",
+    "NameEn": "Madinty"
+  },
+  {
+    "id": "51",
+    "GovernorateId": "1",
+    "NameAr": "روض الفرج",
+    "NameEn": "Rod Alfarag"
+  },
+  {
+    "id": "52",
+    "GovernorateId": "1",
+    "NameAr": "شيراتون",
+    "NameEn": "Sheraton"
+  },
+  {
+    "id": "53",
+    "GovernorateId": "1",
+    "NameAr": "الجمالية",
+    "NameEn": "El-Gamaleya"
+  },
+  {
+    "id": "54",
+    "GovernorateId": "1",
+    "NameAr": "العاشر من رمضان",
+    "NameEn": "10th of Ramadan City"
+  },
+  {
+    "id": "55",
+    "GovernorateId": "1",
+    "NameAr": "الحلمية",
+    "NameEn": "Helmeyat Alzaytoun"
+  },
+  {
+    "id": "56",
+    "GovernorateId": "1",
+    "NameAr": "النزهة الجديدة",
+    "NameEn": "New Nozha"
+  },
+  {
+    "id": "57",
+    "GovernorateId": "1",
+    "NameAr": "العاصمة الإدارية",
+    "NameEn": "Capital New"
+  },
+  {
+    "id": "58",
+    "GovernorateId": "2",
+    "NameAr": "الجيزة",
+    "NameEn": "Giza"
+  },
+  {
+    "id": "59",
+    "GovernorateId": "2",
+    "NameAr": "السادس من أكتوبر",
+    "NameEn": "Sixth of October"
+  },
+  {
+    "id": "60",
+    "GovernorateId": "2",
+    "NameAr": "الشيخ زايد",
+    "NameEn": "Cheikh Zayed"
+  },
+  {
+    "id": "61",
+    "GovernorateId": "2",
+    "NameAr": "الحوامدية",
+    "NameEn": "Hawamdiyah"
+  },
+  {
+    "id": "62",
+    "GovernorateId": "2",
+    "NameAr": "البدرشين",
+    "NameEn": "Al Badrasheen"
+  },
+  {
+    "id": "63",
+    "GovernorateId": "2",
+    "NameAr": "الصف",
+    "NameEn": "Saf"
+  },
+  {
+    "id": "64",
+    "GovernorateId": "2",
+    "NameAr": "أطفيح",
+    "NameEn": "Atfih"
+  },
+  {
+    "id": "65",
+    "GovernorateId": "2",
+    "NameAr": "العياط",
+    "NameEn": "Al Ayat"
+  },
+  {
+    "id": "66",
+    "GovernorateId": "2",
+    "NameAr": "الباويطي",
+    "NameEn": "Al-Bawaiti"
+  },
+  {
+    "id": "67",
+    "GovernorateId": "2",
+    "NameAr": "منشأة القناطر",
+    "NameEn": "ManshiyetAl Qanater"
+  },
+  {
+    "id": "68",
+    "GovernorateId": "2",
+    "NameAr": "أوسيم",
+    "NameEn": "Oaseem"
+  },
+  {
+    "id": "69",
+    "GovernorateId": "2",
+    "NameAr": "كرداسة",
+    "NameEn": "Kerdasa"
+  },
+  {
+    "id": "70",
+    "GovernorateId": "2",
+    "NameAr": "أبو النمرس",
+    "NameEn": "Abu Nomros"
+  },
+  {
+    "id": "71",
+    "GovernorateId": "2",
+    "NameAr": "كفر غطاطي",
+    "NameEn": "Kafr Ghati"
+  },
+  {
+    "id": "72",
+    "GovernorateId": "2",
+    "NameAr": "منشأة البكاري",
+    "NameEn": "Manshiyet Al Bakari"
+  },
+  {
+    "id": "73",
+    "GovernorateId": "2",
+    "NameAr": "الدقى",
+    "NameEn": "Dokki"
+  },
+  {
+    "id": "74",
+    "GovernorateId": "2",
+    "NameAr": "العجوزة",
+    "NameEn": "Agouza"
+  },
+  {
+    "id": "75",
+    "GovernorateId": "2",
+    "NameAr": "الهرم",
+    "NameEn": "Haram"
+  },
+  {
+    "id": "76",
+    "GovernorateId": "2",
+    "NameAr": "الوراق",
+    "NameEn": "Warraq"
+  },
+  {
+    "id": "77",
+    "GovernorateId": "2",
+    "NameAr": "امبابة",
+    "NameEn": "Imbaba"
+  },
+  {
+    "id": "78",
+    "GovernorateId": "2",
+    "NameAr": "بولاق الدكرور",
+    "NameEn": "Boulaq Dakrour"
+  },
+  {
+    "id": "79",
+    "GovernorateId": "2",
+    "NameAr": "الواحات البحرية",
+    "NameEn": "Al Wahat Al Baharia"
+  },
+  {
+    "id": "80",
+    "GovernorateId": "2",
+    "NameAr": "العمرانية",
+    "NameEn": "Omraneya"
+  },
+  {
+    "id": "81",
+    "GovernorateId": "2",
+    "NameAr": "المنيب",
+    "NameEn": "Moneeb"
+  },
+  {
+    "id": "82",
+    "GovernorateId": "2",
+    "NameAr": "بين السرايات",
+    "NameEn": "Bin Alsarayat"
+  },
+  {
+    "id": "83",
+    "GovernorateId": "2",
+    "NameAr": "الكيت كات",
+    "NameEn": "Kit Kat"
+  },
+  {
+    "id": "84",
+    "GovernorateId": "2",
+    "NameAr": "المهندسين",
+    "NameEn": "Mohandessin"
+  },
+  {
+    "id": "85",
+    "GovernorateId": "2",
+    "NameAr": "فيصل",
+    "NameEn": "Faisal"
+  },
+  {
+    "id": "86",
+    "GovernorateId": "2",
+    "NameAr": "أبو رواش",
+    "NameEn": "Abu Rawash"
+  },
+  {
+    "id": "87",
+    "GovernorateId": "2",
+    "NameAr": "حدائق الأهرام",
+    "NameEn": "Hadayek Alahram"
+  },
+  {
+    "id": "88",
+    "GovernorateId": "2",
+    "NameAr": "الحرانية",
+    "NameEn": "Haraneya"
+  },
+  {
+    "id": "89",
+    "GovernorateId": "2",
+    "NameAr": "حدائق اكتوبر",
+    "NameEn": "Hadayek October"
+  },
+  {
+    "id": "90",
+    "GovernorateId": "2",
+    "NameAr": "صفط اللبن",
+    "NameEn": "Saft Allaban"
+  },
+  {
+    "id": "91",
+    "GovernorateId": "2",
+    "NameAr": "القرية الذكية",
+    "NameEn": "Smart Village"
+  },
+  {
+    "id": "92",
+    "GovernorateId": "2",
+    "NameAr": "ارض اللواء",
+    "NameEn": "Ard Ellwaa"
+  },
+  {
+    "id": "93",
+    "GovernorateId": "3",
+    "NameAr": "ابو قير",
+    "NameEn": "Abu Qir"
+  },
+  {
+    "id": "94",
+    "GovernorateId": "3",
+    "NameAr": "الابراهيمية",
+    "NameEn": "Al Ibrahimeyah"
+  },
+  {
+    "id": "95",
+    "GovernorateId": "3",
+    "NameAr": "الأزاريطة",
+    "NameEn": "Azarita"
+  },
+  {
+    "id": "96",
+    "GovernorateId": "3",
+    "NameAr": "الانفوشى",
+    "NameEn": "Anfoushi"
+  },
+  {
+    "id": "97",
+    "GovernorateId": "3",
+    "NameAr": "الدخيلة",
+    "NameEn": "Dekheila"
+  },
+  {
+    "id": "98",
+    "GovernorateId": "3",
+    "NameAr": "السيوف",
+    "NameEn": "El Soyof"
+  },
+  {
+    "id": "99",
+    "GovernorateId": "3",
+    "NameAr": "العامرية",
+    "NameEn": "Ameria"
+  },
+  {
+    "id": "100",
+    "GovernorateId": "3",
+    "NameAr": "اللبان",
+    "NameEn": "El Labban"
+  },
+  {
+    "id": "101",
+    "GovernorateId": "3",
+    "NameAr": "المفروزة",
+    "NameEn": "Al Mafrouza"
+  },
+  {
+    "id": "102",
+    "GovernorateId": "3",
+    "NameAr": "المنتزه",
+    "NameEn": "El Montaza"
+  },
+  {
+    "id": "103",
+    "GovernorateId": "3",
+    "NameAr": "المنشية",
+    "NameEn": "Mansheya"
+  },
+  {
+    "id": "104",
+    "GovernorateId": "3",
+    "NameAr": "الناصرية",
+    "NameEn": "Naseria"
+  },
+  {
+    "id": "105",
+    "GovernorateId": "3",
+    "NameAr": "امبروزو",
+    "NameEn": "Ambrozo"
+  },
+  {
+    "id": "106",
+    "GovernorateId": "3",
+    "NameAr": "باب شرق",
+    "NameEn": "Bab Sharq"
+  },
+  {
+    "id": "107",
+    "GovernorateId": "3",
+    "NameAr": "برج العرب",
+    "NameEn": "Bourj Alarab"
+  },
+  {
+    "id": "108",
+    "GovernorateId": "3",
+    "NameAr": "ستانلى",
+    "NameEn": "Stanley"
+  },
+  {
+    "id": "109",
+    "GovernorateId": "3",
+    "NameAr": "سموحة",
+    "NameEn": "Smouha"
+  },
+  {
+    "id": "110",
+    "GovernorateId": "3",
+    "NameAr": "سيدى بشر",
+    "NameEn": "Sidi Bishr"
+  },
+  {
+    "id": "111",
+    "GovernorateId": "3",
+    "NameAr": "شدس",
+    "NameEn": "Shads"
+  },
+  {
+    "id": "112",
+    "GovernorateId": "3",
+    "NameAr": "غيط العنب",
+    "NameEn": "Gheet Alenab"
+  },
+  {
+    "id": "113",
+    "GovernorateId": "3",
+    "NameAr": "فلمينج",
+    "NameEn": "Fleming"
+  },
+  {
+    "id": "114",
+    "GovernorateId": "3",
+    "NameAr": "فيكتوريا",
+    "NameEn": "Victoria"
+  },
+  {
+    "id": "115",
+    "GovernorateId": "3",
+    "NameAr": "كامب شيزار",
+    "NameEn": "Camp Shizar"
+  },
+  {
+    "id": "116",
+    "GovernorateId": "3",
+    "NameAr": "كرموز",
+    "NameEn": "Karmooz"
+  },
+  {
+    "id": "117",
+    "GovernorateId": "3",
+    "NameAr": "محطة الرمل",
+    "NameEn": "Mahta Alraml"
+  },
+  {
+    "id": "118",
+    "GovernorateId": "3",
+    "NameAr": "مينا البصل",
+    "NameEn": "Mina El-Basal"
+  },
+  {
+    "id": "119",
+    "GovernorateId": "3",
+    "NameAr": "العصافرة",
+    "NameEn": "Asafra"
+  },
+  {
+    "id": "120",
+    "GovernorateId": "3",
+    "NameAr": "العجمي",
+    "NameEn": "Agamy"
+  },
+  {
+    "id": "121",
+    "GovernorateId": "3",
+    "NameAr": "بكوس",
+    "NameEn": "Bakos"
+  },
+  {
+    "id": "122",
+    "GovernorateId": "3",
+    "NameAr": "بولكلي",
+    "NameEn": "Boulkly"
+  },
+  {
+    "id": "123",
+    "GovernorateId": "3",
+    "NameAr": "كليوباترا",
+    "NameEn": "Cleopatra"
+  },
+  {
+    "id": "124",
+    "GovernorateId": "3",
+    "NameAr": "جليم",
+    "NameEn": "Glim"
+  },
+  {
+    "id": "125",
+    "GovernorateId": "3",
+    "NameAr": "المعمورة",
+    "NameEn": "Al Mamurah"
+  },
+  {
+    "id": "126",
+    "GovernorateId": "3",
+    "NameAr": "المندرة",
+    "NameEn": "Al Mandara"
+  },
+  {
+    "id": "127",
+    "GovernorateId": "3",
+    "NameAr": "محرم بك",
+    "NameEn": "Moharam Bek"
+  },
+  {
+    "id": "128",
+    "GovernorateId": "3",
+    "NameAr": "الشاطبي",
+    "NameEn": "Elshatby"
+  },
+  {
+    "id": "129",
+    "GovernorateId": "3",
+    "NameAr": "سيدي جابر",
+    "NameEn": "Sidi Gaber"
+  },
+  {
+    "id": "130",
+    "GovernorateId": "3",
+    "NameAr": "الساحل الشمالي",
+    "NameEn": "North Coast\/sahel"
+  },
+  {
+    "id": "131",
+    "GovernorateId": "3",
+    "NameAr": "الحضرة",
+    "NameEn": "Alhadra"
+  },
+  {
+    "id": "132",
+    "GovernorateId": "3",
+    "NameAr": "العطارين",
+    "NameEn": "Alattarin"
+  },
+  {
+    "id": "133",
+    "GovernorateId": "3",
+    "NameAr": "سيدي كرير",
+    "NameEn": "Sidi Kerir"
+  },
+  {
+    "id": "134",
+    "GovernorateId": "3",
+    "NameAr": "الجمرك",
+    "NameEn": "Elgomrok"
+  },
+  {
+    "id": "135",
+    "GovernorateId": "3",
+    "NameAr": "المكس",
+    "NameEn": "Al Max"
+  },
+  {
+    "id": "136",
+    "GovernorateId": "3",
+    "NameAr": "مارينا",
+    "NameEn": "Marina"
+  },
+  {
+    "id": "137",
+    "GovernorateId": "4",
+    "NameAr": "المنصورة",
+    "NameEn": "Mansoura"
+  },
+  {
+    "id": "138",
+    "GovernorateId": "4",
+    "NameAr": "طلخا",
+    "NameEn": "Talkha"
+  },
+  {
+    "id": "139",
+    "GovernorateId": "4",
+    "NameAr": "ميت غمر",
+    "NameEn": "Mitt Ghamr"
+  },
+  {
+    "id": "140",
+    "GovernorateId": "4",
+    "NameAr": "دكرنس",
+    "NameEn": "Dekernes"
+  },
+  {
+    "id": "141",
+    "GovernorateId": "4",
+    "NameAr": "أجا",
+    "NameEn": "Aga"
+  },
+  {
+    "id": "142",
+    "GovernorateId": "4",
+    "NameAr": "منية النصر",
+    "NameEn": "Menia El Nasr"
+  },
+  {
+    "id": "143",
+    "GovernorateId": "4",
+    "NameAr": "السنبلاوين",
+    "NameEn": "Sinbillawin"
+  },
+  {
+    "id": "144",
+    "GovernorateId": "4",
+    "NameAr": "الكردي",
+    "NameEn": "El Kurdi"
+  },
+  {
+    "id": "145",
+    "GovernorateId": "4",
+    "NameAr": "بني عبيد",
+    "NameEn": "Bani Ubaid"
+  },
+  {
+    "id": "146",
+    "GovernorateId": "4",
+    "NameAr": "المنزلة",
+    "NameEn": "Al Manzala"
+  },
+  {
+    "id": "147",
+    "GovernorateId": "4",
+    "NameAr": "تمي الأمديد",
+    "NameEn": "tami al'amdid"
+  },
+  {
+    "id": "148",
+    "GovernorateId": "4",
+    "NameAr": "الجمالية",
+    "NameEn": "aljamalia"
+  },
+  {
+    "id": "149",
+    "GovernorateId": "4",
+    "NameAr": "شربين",
+    "NameEn": "Sherbin"
+  },
+  {
+    "id": "150",
+    "GovernorateId": "4",
+    "NameAr": "المطرية",
+    "NameEn": "Mataria"
+  },
+  {
+    "id": "151",
+    "GovernorateId": "4",
+    "NameAr": "بلقاس",
+    "NameEn": "Belqas"
+  },
+  {
+    "id": "152",
+    "GovernorateId": "4",
+    "NameAr": "ميت سلسيل",
+    "NameEn": "Meet Salsil"
+  },
+  {
+    "id": "153",
+    "GovernorateId": "4",
+    "NameAr": "جمصة",
+    "NameEn": "Gamasa"
+  },
+  {
+    "id": "154",
+    "GovernorateId": "4",
+    "NameAr": "محلة دمنة",
+    "NameEn": "Mahalat Damana"
+  },
+  {
+    "id": "155",
+    "GovernorateId": "4",
+    "NameAr": "نبروه",
+    "NameEn": "Nabroh"
+  },
+  {
+    "id": "156",
+    "GovernorateId": "5",
+    "NameAr": "الغردقة",
+    "NameEn": "Hurghada"
+  },
+  {
+    "id": "157",
+    "GovernorateId": "5",
+    "NameAr": "رأس غارب",
+    "NameEn": "Ras Ghareb"
+  },
+  {
+    "id": "158",
+    "GovernorateId": "5",
+    "NameAr": "سفاجا",
+    "NameEn": "Safaga"
+  },
+  {
+    "id": "159",
+    "GovernorateId": "5",
+    "NameAr": "القصير",
+    "NameEn": "El Qusiar"
+  },
+  {
+    "id": "160",
+    "GovernorateId": "5",
+    "NameAr": "مرسى علم",
+    "NameEn": "Marsa Alam"
+  },
+  {
+    "id": "161",
+    "GovernorateId": "5",
+    "NameAr": "الشلاتين",
+    "NameEn": "Shalatin"
+  },
+  {
+    "id": "162",
+    "GovernorateId": "5",
+    "NameAr": "حلايب",
+    "NameEn": "Halaib"
+  },
+  {
+    "id": "163",
+    "GovernorateId": "5",
+    "NameAr": "الدهار",
+    "NameEn": "Aldahar"
+  },
+  {
+    "id": "164",
+    "GovernorateId": "6",
+    "NameAr": "دمنهور",
+    "NameEn": "Damanhour"
+  },
+  {
+    "id": "165",
+    "GovernorateId": "6",
+    "NameAr": "كفر الدوار",
+    "NameEn": "Kafr El Dawar"
+  },
+  {
+    "id": "166",
+    "GovernorateId": "6",
+    "NameAr": "رشيد",
+    "NameEn": "Rashid"
+  },
+  {
+    "id": "167",
+    "GovernorateId": "6",
+    "NameAr": "إدكو",
+    "NameEn": "Edco"
+  },
+  {
+    "id": "168",
+    "GovernorateId": "6",
+    "NameAr": "أبو المطامير",
+    "NameEn": "Abu al-Matamir"
+  },
+  {
+    "id": "169",
+    "GovernorateId": "6",
+    "NameAr": "أبو حمص",
+    "NameEn": "Abu Homs"
+  },
+  {
+    "id": "170",
+    "GovernorateId": "6",
+    "NameAr": "الدلنجات",
+    "NameEn": "Delengat"
+  },
+  {
+    "id": "171",
+    "GovernorateId": "6",
+    "NameAr": "المحمودية",
+    "NameEn": "Mahmoudiyah"
+  },
+  {
+    "id": "172",
+    "GovernorateId": "6",
+    "NameAr": "الرحمانية",
+    "NameEn": "Rahmaniyah"
+  },
+  {
+    "id": "173",
+    "GovernorateId": "6",
+    "NameAr": "إيتاي البارود",
+    "NameEn": "Itai Baroud"
+  },
+  {
+    "id": "174",
+    "GovernorateId": "6",
+    "NameAr": "حوش عيسى",
+    "NameEn": "Housh Eissa"
+  },
+  {
+    "id": "175",
+    "GovernorateId": "6",
+    "NameAr": "شبراخيت",
+    "NameEn": "Shubrakhit"
+  },
+  {
+    "id": "176",
+    "GovernorateId": "6",
+    "NameAr": "كوم حمادة",
+    "NameEn": "Kom Hamada"
+  },
+  {
+    "id": "177",
+    "GovernorateId": "6",
+    "NameAr": "بدر",
+    "NameEn": "Badr"
+  },
+  {
+    "id": "178",
+    "GovernorateId": "6",
+    "NameAr": "وادي النطرون",
+    "NameEn": "Wadi Natrun"
+  },
+  {
+    "id": "179",
+    "GovernorateId": "6",
+    "NameAr": "النوبارية الجديدة",
+    "NameEn": "New Nubaria"
+  },
+  {
+    "id": "180",
+    "GovernorateId": "6",
+    "NameAr": "النوبارية",
+    "NameEn": "Alnoubareya"
+  },
+  {
+    "id": "181",
+    "GovernorateId": "7",
+    "NameAr": "الفيوم",
+    "NameEn": "Fayoum"
+  },
+  {
+    "id": "182",
+    "GovernorateId": "7",
+    "NameAr": "الفيوم الجديدة",
+    "NameEn": "Fayoum El Gedida"
+  },
+  {
+    "id": "183",
+    "GovernorateId": "7",
+    "NameAr": "طامية",
+    "NameEn": "Tamiya"
+  },
+  {
+    "id": "184",
+    "GovernorateId": "7",
+    "NameAr": "سنورس",
+    "NameEn": "Snores"
+  },
+  {
+    "id": "185",
+    "GovernorateId": "7",
+    "NameAr": "إطسا",
+    "NameEn": "Etsa"
+  },
+  {
+    "id": "186",
+    "GovernorateId": "7",
+    "NameAr": "إبشواي",
+    "NameEn": "Epschway"
+  },
+  {
+    "id": "187",
+    "GovernorateId": "7",
+    "NameAr": "يوسف الصديق",
+    "NameEn": "Yusuf El Sediaq"
+  },
+  {
+    "id": "188",
+    "GovernorateId": "7",
+    "NameAr": "الحادقة",
+    "NameEn": "Hadqa"
+  },
+  {
+    "id": "189",
+    "GovernorateId": "7",
+    "NameAr": "اطسا",
+    "NameEn": "Atsa"
+  },
+  {
+    "id": "190",
+    "GovernorateId": "7",
+    "NameAr": "الجامعة",
+    "NameEn": "Algamaa"
+  },
+  {
+    "id": "191",
+    "GovernorateId": "7",
+    "NameAr": "السيالة",
+    "NameEn": "Sayala"
+  },
+  {
+    "id": "192",
+    "GovernorateId": "8",
+    "NameAr": "طنطا",
+    "NameEn": "Tanta"
+  },
+  {
+    "id": "193",
+    "GovernorateId": "8",
+    "NameAr": "المحلة الكبرى",
+    "NameEn": "Al Mahalla Al Kobra"
+  },
+  {
+    "id": "194",
+    "GovernorateId": "8",
+    "NameAr": "كفر الزيات",
+    "NameEn": "Kafr El Zayat"
+  },
+  {
+    "id": "195",
+    "GovernorateId": "8",
+    "NameAr": "زفتى",
+    "NameEn": "Zefta"
+  },
+  {
+    "id": "196",
+    "GovernorateId": "8",
+    "NameAr": "السنطة",
+    "NameEn": "El Santa"
+  },
+  {
+    "id": "197",
+    "GovernorateId": "8",
+    "NameAr": "قطور",
+    "NameEn": "Qutour"
+  },
+  {
+    "id": "198",
+    "GovernorateId": "8",
+    "NameAr": "بسيون",
+    "NameEn": "Basion"
+  },
+  {
+    "id": "199",
+    "GovernorateId": "8",
+    "NameAr": "سمنود",
+    "NameEn": "Samannoud"
+  },
+  {
+    "id": "200",
+    "GovernorateId": "9",
+    "NameAr": "الإسماعيلية",
+    "NameEn": "Ismailia"
+  },
+  {
+    "id": "201",
+    "GovernorateId": "9",
+    "NameAr": "فايد",
+    "NameEn": "Fayed"
+  },
+  {
+    "id": "202",
+    "GovernorateId": "9",
+    "NameAr": "القنطرة شرق",
+    "NameEn": "Qantara Sharq"
+  },
+  {
+    "id": "203",
+    "GovernorateId": "9",
+    "NameAr": "القنطرة غرب",
+    "NameEn": "Qantara Gharb"
+  },
+  {
+    "id": "204",
+    "GovernorateId": "9",
+    "NameAr": "التل الكبير",
+    "NameEn": "El Tal El Kabier"
+  },
+  {
+    "id": "205",
+    "GovernorateId": "9",
+    "NameAr": "أبو صوير",
+    "NameEn": "Abu Sawir"
+  },
+  {
+    "id": "206",
+    "GovernorateId": "9",
+    "NameAr": "القصاصين الجديدة",
+    "NameEn": "Kasasien El Gedida"
+  },
+  {
+    "id": "207",
+    "GovernorateId": "9",
+    "NameAr": "نفيشة",
+    "NameEn": "Nefesha"
+  },
+  {
+    "id": "208",
+    "GovernorateId": "9",
+    "NameAr": "الشيخ زايد",
+    "NameEn": "Sheikh Zayed"
+  },
+  {
+    "id": "209",
+    "GovernorateId": "10",
+    "NameAr": "شبين الكوم",
+    "NameEn": "Shbeen El Koom"
+  },
+  {
+    "id": "210",
+    "GovernorateId": "10",
+    "NameAr": "مدينة السادات",
+    "NameEn": "Sadat City"
+  },
+  {
+    "id": "211",
+    "GovernorateId": "10",
+    "NameAr": "منوف",
+    "NameEn": "Menouf"
+  },
+  {
+    "id": "212",
+    "GovernorateId": "10",
+    "NameAr": "سرس الليان",
+    "NameEn": "Sars El-Layan"
+  },
+  {
+    "id": "213",
+    "GovernorateId": "10",
+    "NameAr": "أشمون",
+    "NameEn": "Ashmon"
+  },
+  {
+    "id": "214",
+    "GovernorateId": "10",
+    "NameAr": "الباجور",
+    "NameEn": "Al Bagor"
+  },
+  {
+    "id": "215",
+    "GovernorateId": "10",
+    "NameAr": "قويسنا",
+    "NameEn": "Quesna"
+  },
+  {
+    "id": "216",
+    "GovernorateId": "10",
+    "NameAr": "بركة السبع",
+    "NameEn": "Berkat El Saba"
+  },
+  {
+    "id": "217",
+    "GovernorateId": "10",
+    "NameAr": "تلا",
+    "NameEn": "Tala"
+  },
+  {
+    "id": "218",
+    "GovernorateId": "10",
+    "NameAr": "الشهداء",
+    "NameEn": "Al Shohada"
+  },
+  {
+    "id": "219",
+    "GovernorateId": "11",
+    "NameAr": "المنيا",
+    "NameEn": "Minya"
+  },
+  {
+    "id": "220",
+    "GovernorateId": "11",
+    "NameAr": "المنيا الجديدة",
+    "NameEn": "Minya El Gedida"
+  },
+  {
+    "id": "221",
+    "GovernorateId": "11",
+    "NameAr": "العدوة",
+    "NameEn": "El Adwa"
+  },
+  {
+    "id": "222",
+    "GovernorateId": "11",
+    "NameAr": "مغاغة",
+    "NameEn": "Magagha"
+  },
+  {
+    "id": "223",
+    "GovernorateId": "11",
+    "NameAr": "بني مزار",
+    "NameEn": "Bani Mazar"
+  },
+  {
+    "id": "224",
+    "GovernorateId": "11",
+    "NameAr": "مطاي",
+    "NameEn": "Mattay"
+  },
+  {
+    "id": "225",
+    "GovernorateId": "11",
+    "NameAr": "سمالوط",
+    "NameEn": "Samalut"
+  },
+  {
+    "id": "226",
+    "GovernorateId": "11",
+    "NameAr": "المدينة الفكرية",
+    "NameEn": "Madinat El Fekria"
+  },
+  {
+    "id": "227",
+    "GovernorateId": "11",
+    "NameAr": "ملوي",
+    "NameEn": "Meloy"
+  },
+  {
+    "id": "228",
+    "GovernorateId": "11",
+    "NameAr": "دير مواس",
+    "NameEn": "Deir Mawas"
+  },
+  {
+    "id": "229",
+    "GovernorateId": "11",
+    "NameAr": "ابو قرقاص",
+    "NameEn": "Abu Qurqas"
+  },
+  {
+    "id": "230",
+    "GovernorateId": "11",
+    "NameAr": "ارض سلطان",
+    "NameEn": "Ard Sultan"
+  },
+  {
+    "id": "231",
+    "GovernorateId": "12",
+    "NameAr": "بنها",
+    "NameEn": "Banha"
+  },
+  {
+    "id": "232",
+    "GovernorateId": "12",
+    "NameAr": "قليوب",
+    "NameEn": "Qalyub"
+  },
+  {
+    "id": "233",
+    "GovernorateId": "12",
+    "NameAr": "شبرا الخيمة",
+    "NameEn": "Shubra Al Khaimah"
+  },
+  {
+    "id": "234",
+    "GovernorateId": "12",
+    "NameAr": "القناطر الخيرية",
+    "NameEn": "Al Qanater Charity"
+  },
+  {
+    "id": "235",
+    "GovernorateId": "12",
+    "NameAr": "الخانكة",
+    "NameEn": "Khanka"
+  },
+  {
+    "id": "236",
+    "GovernorateId": "12",
+    "NameAr": "كفر شكر",
+    "NameEn": "Kafr Shukr"
+  },
+  {
+    "id": "237",
+    "GovernorateId": "12",
+    "NameAr": "طوخ",
+    "NameEn": "Tukh"
+  },
+  {
+    "id": "238",
+    "GovernorateId": "12",
+    "NameAr": "قها",
+    "NameEn": "Qaha"
+  },
+  {
+    "id": "239",
+    "GovernorateId": "12",
+    "NameAr": "العبور",
+    "NameEn": "Obour"
+  },
+  {
+    "id": "240",
+    "GovernorateId": "12",
+    "NameAr": "الخصوص",
+    "NameEn": "Khosous"
+  },
+  {
+    "id": "241",
+    "GovernorateId": "12",
+    "NameAr": "شبين القناطر",
+    "NameEn": "Shibin Al Qanater"
+  },
+  {
+    "id": "242",
+    "GovernorateId": "12",
+    "NameAr": "مسطرد",
+    "NameEn": "Mostorod"
+  },
+  {
+    "id": "243",
+    "GovernorateId": "13",
+    "NameAr": "الخارجة",
+    "NameEn": "El Kharga"
+  },
+  {
+    "id": "244",
+    "GovernorateId": "13",
+    "NameAr": "باريس",
+    "NameEn": "Paris"
+  },
+  {
+    "id": "245",
+    "GovernorateId": "13",
+    "NameAr": "موط",
+    "NameEn": "Mout"
+  },
+  {
+    "id": "246",
+    "GovernorateId": "13",
+    "NameAr": "الفرافرة",
+    "NameEn": "Farafra"
+  },
+  {
+    "id": "247",
+    "GovernorateId": "13",
+    "NameAr": "بلاط",
+    "NameEn": "Balat"
+  },
+  {
+    "id": "248",
+    "GovernorateId": "13",
+    "NameAr": "الداخلة",
+    "NameEn": "Dakhla"
+  },
+  {
+    "id": "249",
+    "GovernorateId": "14",
+    "NameAr": "السويس",
+    "NameEn": "Suez"
+  },
+  {
+    "id": "250",
+    "GovernorateId": "14",
+    "NameAr": "الجناين",
+    "NameEn": "Alganayen"
+  },
+  {
+    "id": "251",
+    "GovernorateId": "14",
+    "NameAr": "عتاقة",
+    "NameEn": "Ataqah"
+  },
+  {
+    "id": "252",
+    "GovernorateId": "14",
+    "NameAr": "العين السخنة",
+    "NameEn": "Ain Sokhna"
+  },
+  {
+    "id": "253",
+    "GovernorateId": "14",
+    "NameAr": "فيصل",
+    "NameEn": "Faysal"
+  },
+  {
+    "id": "254",
+    "GovernorateId": "15",
+    "NameAr": "أسوان",
+    "NameEn": "Aswan"
+  },
+  {
+    "id": "255",
+    "GovernorateId": "15",
+    "NameAr": "أسوان الجديدة",
+    "NameEn": "Aswan El Gedida"
+  },
+  {
+    "id": "256",
+    "GovernorateId": "15",
+    "NameAr": "دراو",
+    "NameEn": "Drau"
+  },
+  {
+    "id": "257",
+    "GovernorateId": "15",
+    "NameAr": "كوم أمبو",
+    "NameEn": "Kom Ombo"
+  },
+  {
+    "id": "258",
+    "GovernorateId": "15",
+    "NameAr": "نصر النوبة",
+    "NameEn": "Nasr Al Nuba"
+  },
+  {
+    "id": "259",
+    "GovernorateId": "15",
+    "NameAr": "كلابشة",
+    "NameEn": "Kalabsha"
+  },
+  {
+    "id": "260",
+    "GovernorateId": "15",
+    "NameAr": "إدفو",
+    "NameEn": "Edfu"
+  },
+  {
+    "id": "261",
+    "GovernorateId": "15",
+    "NameAr": "الرديسية",
+    "NameEn": "Al-Radisiyah"
+  },
+  {
+    "id": "262",
+    "GovernorateId": "15",
+    "NameAr": "البصيلية",
+    "NameEn": "Al Basilia"
+  },
+  {
+    "id": "263",
+    "GovernorateId": "15",
+    "NameAr": "السباعية",
+    "NameEn": "Al Sibaeia"
+  },
+  {
+    "id": "264",
+    "GovernorateId": "15",
+    "NameAr": "ابوسمبل السياحية",
+    "NameEn": "Abo Simbl Al Siyahia"
+  },
+  {
+    "id": "265",
+    "GovernorateId": "15",
+    "NameAr": "مرسى علم",
+    "NameEn": "Marsa Alam"
+  },
+  {
+    "id": "266",
+    "GovernorateId": "16",
+    "NameAr": "أسيوط",
+    "NameEn": "Assiut"
+  },
+  {
+    "id": "267",
+    "GovernorateId": "16",
+    "NameAr": "أسيوط الجديدة",
+    "NameEn": "Assiut El Gedida"
+  },
+  {
+    "id": "268",
+    "GovernorateId": "16",
+    "NameAr": "ديروط",
+    "NameEn": "Dayrout"
+  },
+  {
+    "id": "269",
+    "GovernorateId": "16",
+    "NameAr": "منفلوط",
+    "NameEn": "Manfalut"
+  },
+  {
+    "id": "270",
+    "GovernorateId": "16",
+    "NameAr": "القوصية",
+    "NameEn": "Qusiya"
+  },
+  {
+    "id": "271",
+    "GovernorateId": "16",
+    "NameAr": "أبنوب",
+    "NameEn": "Abnoub"
+  },
+  {
+    "id": "272",
+    "GovernorateId": "16",
+    "NameAr": "أبو تيج",
+    "NameEn": "Abu Tig"
+  },
+  {
+    "id": "273",
+    "GovernorateId": "16",
+    "NameAr": "الغنايم",
+    "NameEn": "El Ghanaim"
+  },
+  {
+    "id": "274",
+    "GovernorateId": "16",
+    "NameAr": "ساحل سليم",
+    "NameEn": "Sahel Selim"
+  },
+  {
+    "id": "275",
+    "GovernorateId": "16",
+    "NameAr": "البداري",
+    "NameEn": "El Badari"
+  },
+  {
+    "id": "276",
+    "GovernorateId": "16",
+    "NameAr": "صدفا",
+    "NameEn": "Sidfa"
+  },
+  {
+    "id": "277",
+    "GovernorateId": "17",
+    "NameAr": "بني سويف",
+    "NameEn": "Bani Sweif"
+  },
+  {
+    "id": "278",
+    "GovernorateId": "17",
+    "NameAr": "بني سويف الجديدة",
+    "NameEn": "Beni Suef El Gedida"
+  },
+  {
+    "id": "279",
+    "GovernorateId": "17",
+    "NameAr": "الواسطى",
+    "NameEn": "Al Wasta"
+  },
+  {
+    "id": "280",
+    "GovernorateId": "17",
+    "NameAr": "ناصر",
+    "NameEn": "Naser"
+  },
+  {
+    "id": "281",
+    "GovernorateId": "17",
+    "NameAr": "إهناسيا",
+    "NameEn": "Ehnasia"
+  },
+  {
+    "id": "282",
+    "GovernorateId": "17",
+    "NameAr": "ببا",
+    "NameEn": "beba"
+  },
+  {
+    "id": "283",
+    "GovernorateId": "17",
+    "NameAr": "الفشن",
+    "NameEn": "Fashn"
+  },
+  {
+    "id": "284",
+    "GovernorateId": "17",
+    "NameAr": "سمسطا",
+    "NameEn": "Somasta"
+  },
+  {
+    "id": "285",
+    "GovernorateId": "17",
+    "NameAr": "الاباصيرى",
+    "NameEn": "Alabbaseri"
+  },
+  {
+    "id": "286",
+    "GovernorateId": "17",
+    "NameAr": "مقبل",
+    "NameEn": "Mokbel"
+  },
+  {
+    "id": "287",
+    "GovernorateId": "18",
+    "NameAr": "بورسعيد",
+    "NameEn": "PorSaid"
+  },
+  {
+    "id": "288",
+    "GovernorateId": "18",
+    "NameAr": "بورفؤاد",
+    "NameEn": "Port Fouad"
+  },
+  {
+    "id": "289",
+    "GovernorateId": "18",
+    "NameAr": "العرب",
+    "NameEn": "Alarab"
+  },
+  {
+    "id": "290",
+    "GovernorateId": "18",
+    "NameAr": "حى الزهور",
+    "NameEn": "Zohour"
+  },
+  {
+    "id": "291",
+    "GovernorateId": "18",
+    "NameAr": "حى الشرق",
+    "NameEn": "Alsharq"
+  },
+  {
+    "id": "292",
+    "GovernorateId": "18",
+    "NameAr": "حى الضواحى",
+    "NameEn": "Aldawahi"
+  },
+  {
+    "id": "293",
+    "GovernorateId": "18",
+    "NameAr": "حى المناخ",
+    "NameEn": "Almanakh"
+  },
+  {
+    "id": "294",
+    "GovernorateId": "18",
+    "NameAr": "حى مبارك",
+    "NameEn": "Mubarak"
+  },
+  {
+    "id": "295",
+    "GovernorateId": "19",
+    "NameAr": "دمياط",
+    "NameEn": "Damietta"
+  },
+  {
+    "id": "296",
+    "GovernorateId": "19",
+    "NameAr": "دمياط الجديدة",
+    "NameEn": "New Damietta"
+  },
+  {
+    "id": "297",
+    "GovernorateId": "19",
+    "NameAr": "رأس البر",
+    "NameEn": "Ras El Bar"
+  },
+  {
+    "id": "298",
+    "GovernorateId": "19",
+    "NameAr": "فارسكور",
+    "NameEn": "Faraskour"
+  },
+  {
+    "id": "299",
+    "GovernorateId": "19",
+    "NameAr": "الزرقا",
+    "NameEn": "Zarqa"
+  },
+  {
+    "id": "300",
+    "GovernorateId": "19",
+    "NameAr": "السرو",
+    "NameEn": "alsaru"
+  },
+  {
+    "id": "301",
+    "GovernorateId": "19",
+    "NameAr": "الروضة",
+    "NameEn": "alruwda"
+  },
+  {
+    "id": "302",
+    "GovernorateId": "19",
+    "NameAr": "كفر البطيخ",
+    "NameEn": "Kafr El-Batikh"
+  },
+  {
+    "id": "303",
+    "GovernorateId": "19",
+    "NameAr": "عزبة البرج",
+    "NameEn": "Azbet Al Burg"
+  },
+  {
+    "id": "304",
+    "GovernorateId": "19",
+    "NameAr": "ميت أبو غالب",
+    "NameEn": "Meet Abou Ghalib"
+  },
+  {
+    "id": "305",
+    "GovernorateId": "19",
+    "NameAr": "كفر سعد",
+    "NameEn": "Kafr Saad"
+  },
+  {
+    "id": "306",
+    "GovernorateId": "20",
+    "NameAr": "الزقازيق",
+    "NameEn": "Zagazig"
+  },
+  {
+    "id": "307",
+    "GovernorateId": "20",
+    "NameAr": "العاشر من رمضان",
+    "NameEn": "Al Ashr Men Ramadan"
+  },
+  {
+    "id": "308",
+    "GovernorateId": "20",
+    "NameAr": "منيا القمح",
+    "NameEn": "Minya Al Qamh"
+  },
+  {
+    "id": "309",
+    "GovernorateId": "20",
+    "NameAr": "بلبيس",
+    "NameEn": "Belbeis"
+  },
+  {
+    "id": "310",
+    "GovernorateId": "20",
+    "NameAr": "مشتول السوق",
+    "NameEn": "Mashtoul El Souq"
+  },
+  {
+    "id": "311",
+    "GovernorateId": "20",
+    "NameAr": "القنايات",
+    "NameEn": "Qenaiat"
+  },
+  {
+    "id": "312",
+    "GovernorateId": "20",
+    "NameAr": "أبو حماد",
+    "NameEn": "Abu Hammad"
+  },
+  {
+    "id": "313",
+    "GovernorateId": "20",
+    "NameAr": "القرين",
+    "NameEn": "El Qurain"
+  },
+  {
+    "id": "314",
+    "GovernorateId": "20",
+    "NameAr": "ههيا",
+    "NameEn": "Hehia"
+  },
+  {
+    "id": "315",
+    "GovernorateId": "20",
+    "NameAr": "أبو كبير",
+    "NameEn": "Abu Kabir"
+  },
+  {
+    "id": "316",
+    "GovernorateId": "20",
+    "NameAr": "فاقوس",
+    "NameEn": "Faccus"
+  },
+  {
+    "id": "317",
+    "GovernorateId": "20",
+    "NameAr": "الصالحية الجديدة",
+    "NameEn": "El Salihia El Gedida"
+  },
+  {
+    "id": "318",
+    "GovernorateId": "20",
+    "NameAr": "الإبراهيمية",
+    "NameEn": "Al Ibrahimiyah"
+  },
+  {
+    "id": "319",
+    "GovernorateId": "20",
+    "NameAr": "ديرب نجم",
+    "NameEn": "Deirb Negm"
+  },
+  {
+    "id": "320",
+    "GovernorateId": "20",
+    "NameAr": "كفر صقر",
+    "NameEn": "Kafr Saqr"
+  },
+  {
+    "id": "321",
+    "GovernorateId": "20",
+    "NameAr": "أولاد صقر",
+    "NameEn": "Awlad Saqr"
+  },
+  {
+    "id": "322",
+    "GovernorateId": "20",
+    "NameAr": "الحسينية",
+    "NameEn": "Husseiniya"
+  },
+  {
+    "id": "323",
+    "GovernorateId": "20",
+    "NameAr": "صان الحجر القبلية",
+    "NameEn": "san alhajar alqablia"
+  },
+  {
+    "id": "324",
+    "GovernorateId": "20",
+    "NameAr": "منشأة أبو عمر",
+    "NameEn": "Manshayat Abu Omar"
+  },
+  {
+    "id": "325",
+    "GovernorateId": "21",
+    "NameAr": "الطور",
+    "NameEn": "Al Toor"
+  },
+  {
+    "id": "326",
+    "GovernorateId": "21",
+    "NameAr": "شرم الشيخ",
+    "NameEn": "Sharm El-Shaikh"
+  },
+  {
+    "id": "327",
+    "GovernorateId": "21",
+    "NameAr": "دهب",
+    "NameEn": "Dahab"
+  },
+  {
+    "id": "328",
+    "GovernorateId": "21",
+    "NameAr": "نويبع",
+    "NameEn": "Nuweiba"
+  },
+  {
+    "id": "329",
+    "GovernorateId": "21",
+    "NameAr": "طابا",
+    "NameEn": "Taba"
+  },
+  {
+    "id": "330",
+    "GovernorateId": "21",
+    "NameAr": "سانت كاترين",
+    "NameEn": "Saint Catherine"
+  },
+  {
+    "id": "331",
+    "GovernorateId": "21",
+    "NameAr": "أبو رديس",
+    "NameEn": "Abu Redis"
+  },
+  {
+    "id": "332",
+    "GovernorateId": "21",
+    "NameAr": "أبو زنيمة",
+    "NameEn": "Abu Zenaima"
+  },
+  {
+    "id": "333",
+    "GovernorateId": "21",
+    "NameAr": "رأس سدر",
+    "NameEn": "Ras Sidr"
+  },
+  {
+    "id": "334",
+    "GovernorateId": "22",
+    "NameAr": "كفر الشيخ",
+    "NameEn": "Kafr El Sheikh"
+  },
+  {
+    "id": "335",
+    "GovernorateId": "22",
+    "NameAr": "وسط البلد كفر الشيخ",
+    "NameEn": "Kafr El Sheikh Downtown"
+  },
+  {
+    "id": "336",
+    "GovernorateId": "22",
+    "NameAr": "دسوق",
+    "NameEn": "Desouq"
+  },
+  {
+    "id": "337",
+    "GovernorateId": "22",
+    "NameAr": "فوه",
+    "NameEn": "Fooh"
+  },
+  {
+    "id": "338",
+    "GovernorateId": "22",
+    "NameAr": "مطوبس",
+    "NameEn": "Metobas"
+  },
+  {
+    "id": "339",
+    "GovernorateId": "22",
+    "NameAr": "برج البرلس",
+    "NameEn": "Burg Al Burullus"
+  },
+  {
+    "id": "340",
+    "GovernorateId": "22",
+    "NameAr": "بلطيم",
+    "NameEn": "Baltim"
+  },
+  {
+    "id": "341",
+    "GovernorateId": "22",
+    "NameAr": "مصيف بلطيم",
+    "NameEn": "Masief Baltim"
+  },
+  {
+    "id": "342",
+    "GovernorateId": "22",
+    "NameAr": "الحامول",
+    "NameEn": "Hamol"
+  },
+  {
+    "id": "343",
+    "GovernorateId": "22",
+    "NameAr": "بيلا",
+    "NameEn": "Bella"
+  },
+  {
+    "id": "344",
+    "GovernorateId": "22",
+    "NameAr": "الرياض",
+    "NameEn": "Riyadh"
+  },
+  {
+    "id": "345",
+    "GovernorateId": "22",
+    "NameAr": "سيدي سالم",
+    "NameEn": "Sidi Salm"
+  },
+  {
+    "id": "346",
+    "GovernorateId": "22",
+    "NameAr": "قلين",
+    "NameEn": "Qellen"
+  },
+  {
+    "id": "347",
+    "GovernorateId": "22",
+    "NameAr": "سيدي غازي",
+    "NameEn": "Sidi Ghazi"
+  },
+  {
+    "id": "348",
+    "GovernorateId": "23",
+    "NameAr": "مرسى مطروح",
+    "NameEn": "Marsa Matrouh"
+  },
+  {
+    "id": "349",
+    "GovernorateId": "23",
+    "NameAr": "الحمام",
+    "NameEn": "El Hamam"
+  },
+  {
+    "id": "350",
+    "GovernorateId": "23",
+    "NameAr": "العلمين",
+    "NameEn": "Alamein"
+  },
+  {
+    "id": "351",
+    "GovernorateId": "23",
+    "NameAr": "الضبعة",
+    "NameEn": "Dabaa"
+  },
+  {
+    "id": "352",
+    "GovernorateId": "23",
+    "NameAr": "النجيلة",
+    "NameEn": "Al-Nagila"
+  },
+  {
+    "id": "353",
+    "GovernorateId": "23",
+    "NameAr": "سيدي براني",
+    "NameEn": "Sidi Brani"
+  },
+  {
+    "id": "354",
+    "GovernorateId": "23",
+    "NameAr": "السلوم",
+    "NameEn": "Salloum"
+  },
+  {
+    "id": "355",
+    "GovernorateId": "23",
+    "NameAr": "سيوة",
+    "NameEn": "Siwa"
+  },
+  {
+    "id": "356",
+    "GovernorateId": "23",
+    "NameAr": "مارينا",
+    "NameEn": "Marina"
+  },
+  {
+    "id": "357",
+    "GovernorateId": "23",
+    "NameAr": "الساحل الشمالى",
+    "NameEn": "North Coast"
+  },
+  {
+    "id": "358",
+    "GovernorateId": "24",
+    "NameAr": "الأقصر",
+    "NameEn": "Luxor"
+  },
+  {
+    "id": "359",
+    "GovernorateId": "24",
+    "NameAr": "الأقصر الجديدة",
+    "NameEn": "New Luxor"
+  },
+  {
+    "id": "360",
+    "GovernorateId": "24",
+    "NameAr": "إسنا",
+    "NameEn": "Esna"
+  },
+  {
+    "id": "361",
+    "GovernorateId": "24",
+    "NameAr": "طيبة الجديدة",
+    "NameEn": "New Tiba"
+  },
+  {
+    "id": "362",
+    "GovernorateId": "24",
+    "NameAr": "الزينية",
+    "NameEn": "Al ziynia"
+  },
+  {
+    "id": "363",
+    "GovernorateId": "24",
+    "NameAr": "البياضية",
+    "NameEn": "Al Bayadieh"
+  },
+  {
+    "id": "364",
+    "GovernorateId": "24",
+    "NameAr": "القرنة",
+    "NameEn": "Al Qarna"
+  },
+  {
+    "id": "365",
+    "GovernorateId": "24",
+    "NameAr": "أرمنت",
+    "NameEn": "Armant"
+  },
+  {
+    "id": "366",
+    "GovernorateId": "24",
+    "NameAr": "الطود",
+    "NameEn": "Al Tud"
+  },
+  {
+    "id": "367",
+    "GovernorateId": "25",
+    "NameAr": "قنا",
+    "NameEn": "Qena"
+  },
+  {
+    "id": "368",
+    "GovernorateId": "25",
+    "NameAr": "قنا الجديدة",
+    "NameEn": "New Qena"
+  },
+  {
+    "id": "369",
+    "GovernorateId": "25",
+    "NameAr": "ابو طشت",
+    "NameEn": "Abu Tesht"
+  },
+  {
+    "id": "370",
+    "GovernorateId": "25",
+    "NameAr": "نجع حمادي",
+    "NameEn": "Nag Hammadi"
+  },
+  {
+    "id": "371",
+    "GovernorateId": "25",
+    "NameAr": "دشنا",
+    "NameEn": "Deshna"
+  },
+  {
+    "id": "372",
+    "GovernorateId": "25",
+    "NameAr": "الوقف",
+    "NameEn": "Alwaqf"
+  },
+  {
+    "id": "373",
+    "GovernorateId": "25",
+    "NameAr": "قفط",
+    "NameEn": "Qaft"
+  },
+  {
+    "id": "374",
+    "GovernorateId": "25",
+    "NameAr": "نقادة",
+    "NameEn": "Naqada"
+  },
+  {
+    "id": "375",
+    "GovernorateId": "25",
+    "NameAr": "فرشوط",
+    "NameEn": "Farshout"
+  },
+  {
+    "id": "376",
+    "GovernorateId": "25",
+    "NameAr": "قوص",
+    "NameEn": "Quos"
+  },
+  {
+    "id": "377",
+    "GovernorateId": "26",
+    "NameAr": "العريش",
+    "NameEn": "Arish"
+  },
+  {
+    "id": "378",
+    "GovernorateId": "26",
+    "NameAr": "الشيخ زويد",
+    "NameEn": "Sheikh Zowaid"
+  },
+  {
+    "id": "379",
+    "GovernorateId": "26",
+    "NameAr": "نخل",
+    "NameEn": "Nakhl"
+  },
+  {
+    "id": "380",
+    "GovernorateId": "26",
+    "NameAr": "رفح",
+    "NameEn": "Rafah"
+  },
+  {
+    "id": "381",
+    "GovernorateId": "26",
+    "NameAr": "بئر العبد",
+    "NameEn": "Bir al-Abed"
+  },
+  {
+    "id": "382",
+    "GovernorateId": "26",
+    "NameAr": "الحسنة",
+    "NameEn": "Al Hasana"
+  },
+  {
+    "id": "383",
+    "GovernorateId": "27",
+    "NameAr": "سوهاج",
+    "NameEn": "Sohag"
+  },
+  {
+    "id": "384",
+    "GovernorateId": "27",
+    "NameAr": "سوهاج الجديدة",
+    "NameEn": "Sohag El Gedida"
+  },
+  {
+    "id": "385",
+    "GovernorateId": "27",
+    "NameAr": "أخميم",
+    "NameEn": "Akhmeem"
+  },
+  {
+    "id": "386",
+    "GovernorateId": "27",
+    "NameAr": "أخميم الجديدة",
+    "NameEn": "Akhmim El Gedida"
+  },
+  {
+    "id": "387",
+    "GovernorateId": "27",
+    "NameAr": "البلينا",
+    "NameEn": "Albalina"
+  },
+  {
+    "id": "388",
+    "GovernorateId": "27",
+    "NameAr": "المراغة",
+    "NameEn": "El Maragha"
+  },
+  {
+    "id": "389",
+    "GovernorateId": "27",
+    "NameAr": "المنشأة",
+    "NameEn": "almunsha'a"
+  },
+  {
+    "id": "390",
+    "GovernorateId": "27",
+    "NameAr": "دار السلام",
+    "NameEn": "Dar AISalaam"
+  },
+  {
+    "id": "391",
+    "GovernorateId": "27",
+    "NameAr": "جرجا",
+    "NameEn": "Gerga"
+  },
+  {
+    "id": "392",
+    "GovernorateId": "27",
+    "NameAr": "جهينة الغربية",
+    "NameEn": "Jahina Al Gharbia"
+  },
+  {
+    "id": "393",
+    "GovernorateId": "27",
+    "NameAr": "ساقلته",
+    "NameEn": "Saqilatuh"
+  },
+  {
+    "id": "394",
+    "GovernorateId": "27",
+    "NameAr": "طما",
+    "NameEn": "Tama"
+  },
+  {
+    "id": "395",
+    "GovernorateId": "27",
+    "NameAr": "طهطا",
+    "NameEn": "Tahta"
+  },
+  {
+    "id": "396",
+    "GovernorateId": "27",
+    "NameAr": "الكوثر",
+    "NameEn": "Alkawthar"
+  }
+]

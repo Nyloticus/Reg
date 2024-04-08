@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="StocksDetails\Commands\**" />
+      <EmbeddedResource Remove="StocksDetails\Commands\**" />
+      <None Remove="StocksDetails\Commands\**" />
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="FluentValidation" Version="10.3.6" />
+        <PackageReference Include="Mapster" Version="7.2.0" />
+        <PackageReference Include="Google.Apis.Auth" Version="1.55.0" />
+        <PackageReference Include="Mapster.JsonNet" Version="1.1.0" />
+        <PackageReference Include="MediatR" Version="9.0.0" />
+        <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+        <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="6.0.27" />
+        <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+        <PackageReference Include="System.IO.FileSystem.Primitives" Version="4.3.0" />
+        <PackageReference Include="System.Text.Encoding.CodePages" Version="6.0.0" />
+    </ItemGroup>
+    <ItemGroup>
+      <ProjectReference Include="..\Infrastructuer\Infrastructuer.csproj" />
+    </ItemGroup>
+</Project>
